@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecync",
+        "uuid": 5098044,
+        "checksum": "gaqmpr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
